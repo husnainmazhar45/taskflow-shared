@@ -6,7 +6,7 @@ Reusable foundational utilities, configuration, errors, pagination, and request 
 
 ### From GitHub
 ```bash
-pip install git+https://github.com/<your-username>/taskflow-shared.git@v0.1.0
+pip install git+https://github.com/husnainmazhar45/taskflow-shared.git@v0.1.0
 ```
 
 ### Local Editable Mode (Development)
